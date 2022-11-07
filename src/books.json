@@ -1,0 +1,14 @@
+{
+ "eBooks": [ 
+     {"id":1, "language": "Pascal", "edition": "third", "price": 20, "image": "https://m.media-amazon.com/images/I/41HkFhjl3EL._AC_SY780_.jpg" },
+     {"id":2, "language": "Python", "edition": "four", "price": 30, "image": "https://images-us.bookshop.org/ingram/9781653304271.jpg?height=500&v=v2" },
+     {"id":3, "language": "SQL", "edition": "second", "price": 25, "image": "https://m.media-amazon.com/images/I/4132w4snOZL.jpg" },
+     {"id":4, "language": "Java", "edition": "first", "price": 15, "image": "https://m.media-amazon.com/images/I/81BROimNPvL.jpg" },
+     {"id":5, "language": "Java", "edition": "second", "price": 15, "image": "https://m.media-amazon.com/images/I/81BROimNPvL.jpg"  },
+     {"id":6, "language": "JavaScript", "edition": "third", "price": 30, "image" : "https://www.oreilly.com/api/v2/epubs/9780763766580/files/images/cover.jpg" },
+     {"id":7, "language": "Php", "edition": "second", "price": 35, "image": "https://hackr.io/blog/uploads/images/1570190912DtiVR4rmkh.jpg" },
+     {"id":8, "language": "laravel", "edition": "first", "price": 20, "image": "https://m.media-amazon.com/images/I/41R3f1PUlEL._SL500_.jpg" }, 
+     {"id":9, "language": "React", "edition": "second", "price": 26, "image": "https://m.media-amazon.com/images/I/41IiBTZOGCL.jpg" },
+     {"id":10, "language": "React", "edition": "second", "price": 33, "image": "https://m.media-amazon.com/images/I/41IiBTZOGCL.jpg" }
+  ]
+}
