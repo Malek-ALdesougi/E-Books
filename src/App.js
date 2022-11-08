@@ -8,9 +8,9 @@ function App() {
     <>
       <Header />
       <Home />
-      {/* <Routes>
-        <Route path="/" element={<Home />} />
-      </Routes> */}
+      {/* <Routes> */}
+        {/* <Route path="/home" element={<Home />} /> */}
+      {/* </Routes> */}
       <Footer />
     </>
   );
